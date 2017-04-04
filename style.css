@@ -322,6 +322,12 @@ p {
 #social .fa-twitter:hover {
 	color: #FFF
 }
+#social .fa-instagram {
+	color: rgba(255, 255, 255, 0.561)
+}
+#social .fa-instagram:hover {
+	color: #FFF
+}
 @media (max-width: 1680px) {
 	html {
 		font-size: 13pt
